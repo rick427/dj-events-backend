@@ -1,3 +1,3 @@
-# Strapi application
+# Dj Events Backend
 
-A quick description of your strapi application
+A Strapi backend solution for the DJ events app.
